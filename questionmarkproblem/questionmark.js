@@ -12,6 +12,6 @@ function QuestionsMarks(str) {
     }
     return false;
 }
-
+str = "4???6";
 //function call
 QuestionsMarks(readline());
