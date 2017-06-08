@@ -1,0 +1,1 @@
+Friend_Search is a simple script that shows the basics of objects(creating friend objects) and functions(search and list your friends)
