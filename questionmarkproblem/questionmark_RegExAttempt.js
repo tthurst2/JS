@@ -10,13 +10,13 @@ console.log("hello");
     }
     for(var i = 1; i < match.length; i += 2) {
         if(parseInt(match[i]) + parseInt(match[i+1]) == 10) {
-            //console.log("true");
+            console.log("true");
             return true;
         }
     }
-    //console.log("false");
+    console.log("false");
     return false;
 }
-input = "5???6???4";
+input = "5???5";
 //function call
 QuestionsMarks(input);
