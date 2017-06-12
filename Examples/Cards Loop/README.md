@@ -1,0 +1,1 @@
+A small while loop to iterate through suits of cards until a spade is found.
