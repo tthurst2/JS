@@ -1,0 +1,1 @@
+A small JS script that shows an animated slide up/down page that shows text(sort of like a scroll).
