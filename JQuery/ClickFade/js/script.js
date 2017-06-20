@@ -6,9 +6,9 @@ $(document).ready(function() {
       $(this).fadeTo("fast",0.5); 
    });
    $("div").mousedown(function() {
-      $(this).css("background-color", "#5599FF");
+      $("div").css("background-color", "#5599FF");
    });
    $("div").mouseup(function() {
-      $(this).css("background-color", "#69D2E7");
+      $("div").css("background-color", "#69D2E7");
    });
 });
