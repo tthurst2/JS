@@ -3,7 +3,7 @@ $(document).ready(function() {
       $(this).fadeTo("fast", 1); 
    });
    $("div").mouseleave(function() {
-      $(this).fadeTo("fast",0.5); 
+      $(this).fadeTo("fast",0.25); 
    });
    $("div").mousedown(function() {
       $(this).css("background-color", "#5599FF");
