@@ -1,0 +1,1 @@
+basic script to show how to toggle classes on or off in a text jquery object
