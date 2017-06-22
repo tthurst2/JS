@@ -2,7 +2,7 @@
    -moz-user-select: -moz-none;
    -khtml-user-select: none;
    -webkit-user-select: none;
-    cursor: default;
+    cursor: pointer;
 
    /*
      Introduced in IE 10.
