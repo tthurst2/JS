@@ -1,0 +1,1 @@
+Simple program that adds a list of strings typed into a text input form, into a list below it, as well as the ability to remove them on click
