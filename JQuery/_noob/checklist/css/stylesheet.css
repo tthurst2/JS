@@ -3,6 +3,7 @@ h2 {
 }
 
 form {
+	box-shadow: 0 0 8px rgb(0, 100, 255);
     display: inline-block;
 }
 
